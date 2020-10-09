@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DrivePage.qml</file>
+        <file>Card.qml</file>
+        <file>DriveBPage.qml</file>
+        <file>InertiaPage.qml</file>
+        <file>InertiaBPage.qml</file>
+        <file>PrimeView.qml</file>
+        <file>ParamBPage.qml</file>
+        <file>FlagView.qml</file>
+    </qresource>
+</RCC>
