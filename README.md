@@ -1,5 +1,7 @@
 "# mod.ui" 
 
+Manual:https://github.com/Numinus1/mod.ui/blob/main/mod.ui%20manual.pdf
+
 A configurable desktop application meant to communicate with any MODBUS-capable device over the Serial Port. Features:
  - built using the Qt Framework
  - takes as input a configuration file that contains a list of pertinent parameters that need to be scanned from device via MODBUS; it will then automatically generate its own custom layout so as to display the data in the organizational manner suggested by the config file
